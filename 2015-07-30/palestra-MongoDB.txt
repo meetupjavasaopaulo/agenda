@@ -7,3 +7,15 @@ Público: iniciante, quer aprender um pouco sobre bases NoSQL e cloud
 Tempo: 30min
 
 Essa palestra foi apresentada no evento de JBoss JudCon2014 (http://www.jboss.org/events/JUDCon/2014/brazil)
+
+Links:
+
+Apresentação - http://pt.slideshare.net/boaglio/mongodb-e-openshiftfernandoboagliojudcon2015
+
+Fontes: https://github.com/boaglio/judcon2014-openshift-mongodb
+
+Outros:
+http://tinyurl.com/judcon2014
+http://openshift.com
+http://blazemeter.com
+
