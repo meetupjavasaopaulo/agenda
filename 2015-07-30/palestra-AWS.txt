@@ -1,0 +1,15 @@
+
+Conta gratuita da Amazon
+http://aws.amazon.com/pt/free/
+
+Jetty com Memcached - https://github.com/yyuu/jetty-nosql-memcached
+
+App de exemplo com 3 servlets - https://github.com/bdmstyle/jettySession
+
+Memcached - http://memcached.org/
+
+Terminator (usamos para digitar em 2 terminais ao mesmo tempo):
+http://gnometerminator.blogspot.com.br/p/introduction.html
+
+Cadastrar o EC2 nas configurações SSH para usar no Nautilus (usado para mapear as VMs da Amazon em pastas locais):
+http://askubuntu.com/questions/102608/key-based-ssh-login-with-nautilus-connect-to-server
