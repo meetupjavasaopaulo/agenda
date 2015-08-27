@@ -1,0 +1,14 @@
+
+Palestra: Desenvolvimento de aplicações assíncronas, orientada a eventos e poliglotas com Vert.x
+
+Público: iniciante, intermediário, Analista de Negócio, Analista de Requisitos, P.O., Scrum Masters, Desenvolvedores, Analistas de Teste.
+
+Tempo: 1h 20min
+
+Essa apresentação apresenta o framework Vert.x, com foco em quais tipos de problemas ele vem a resolver, além de todos os seus conceitos arquiteturais e demonstrações práticas.
+
+Links:
+
+Apresentação - http://www.slideshare.net/rpeleias/desenvolvimento-de-aplicaes-assncronas-orientadas-a-eventos-e-poliglotas-com-vertx
+
+Fontes: https://github.com/rpeleias/vertx-examples
