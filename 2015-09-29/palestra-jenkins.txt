@@ -1,0 +1,8 @@
+
+Slides:
+
+http://pt.slideshare.net/boaglio/jenkins-livrese-da-parte-chata-do-java
+
+Jenkins:
+
+https://jenkins-ci.org/
