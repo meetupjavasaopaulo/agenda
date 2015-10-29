@@ -1,25 +1,34 @@
 
-Notícias do mês:
+NotÃ­cias do mÃªs:
 
-October 21, 2015 - Docker compra Tutum, serviço de cloud para desenvolvedores e sysadmins
+ 21 Out 2015 - Docker compra Tutum, serviÃ§o de cloud para desenvolvedores e sysadmins
    * tutum docker hub
    * impacto nas empresas de nuvem
 
+ 27 Out 2015 - At JavaOne, Oracle considera incluir algumas propostas para o Java EE 8, atÃ© 2017
+ * JSON-P (Java API for JSON Processing - JSR-353)
+ * Java Message Service 2.1
+ * Java Servlet Specification 4.0 com HTTP/2
+ * MVC 1.0 - exemplo views
+ 
+ 28 Out 2015 |  Firefox nÃ£o vai mais suportar plugins, exceto o Flash
+  * Java, Silverlight e Adobe Acrobat nÃ£o serÃ£o mais suportados.
+  * Firefox 64-bit para Windows
 
 
-Persistência de dados em Java:
+PersistÃªncia de dados em Java:
 
 
-* arquivos texto - melhores opções de leitura/escrita ? java.io 
+* arquivos texto - melhores opÃ§Ãµes de leitura/escrita ? java.io 
 
-* arquivos de planilha - melhores opções de leitura/escrita ? Super CSV
+* arquivos de planilha - melhores opÃ§Ãµes de leitura/escrita ? Super CSV
 
-* dados relacionais - melhores opções ? Hibernate / JPA compensa ?
+* dados relacionais - melhores opÃ§Ãµes ? Hibernate / JPA compensa ?
 
-* dados NoSQL - melhores opções ? MongoDB!
+* dados NoSQL - melhores opÃ§Ãµes ? MongoDB!
 
-* dados em memória - melhores opções ? Redis ? Memcache?
+* dados em memÃ³ria - melhores opÃ§Ãµes ? Redis ? Memcache?
 
 * dados com tamanho fixo - mongodb capped collection 
 
-* dados estatísticos ? Graphite 
+* dados estatÃ­sticos ? Graphite 
