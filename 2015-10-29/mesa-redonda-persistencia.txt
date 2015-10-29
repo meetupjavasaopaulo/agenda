@@ -1,0 +1,25 @@
+
+Notícias do mês:
+
+October 21, 2015 - Docker compra Tutum, serviço de cloud para desenvolvedores e sysadmins
+   * tutum docker hub
+   * impacto nas empresas de nuvem
+
+
+
+Persistência de dados em Java:
+
+
+* arquivos texto - melhores opções de leitura/escrita ? java.io 
+
+* arquivos de planilha - melhores opções de leitura/escrita ? Super CSV
+
+* dados relacionais - melhores opções ? Hibernate / JPA compensa ?
+
+* dados NoSQL - melhores opções ? MongoDB!
+
+* dados em memória - melhores opções ? Redis ? Memcache?
+
+* dados com tamanho fixo - mongodb capped collection 
+
+* dados estatísticos ? Graphite 
