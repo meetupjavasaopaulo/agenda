@@ -1,0 +1,16 @@
+
+É formado em Bacharelado em Ciências da Computação pela UNESP, atua na área de soluções open source junto com Oracle e Java desde 2001.
+
+Foi Instrutor oficial da Sun Microsystems e da Oracle Education.
+
+– colaborador do GUJ (Grupo de Usuários Java); 
+
+– commiter do framework Jenkins, KDE;
+
+– https://github.com/boaglio
+
+– publicou os livros:
+
+    2014 – Play Framework: Java para web sem Servlets e com diversão
+    2015 – MongoDB: Construa novas aplicações com novas tecnologias
+    2016 - Jenkins: Automatize Tudo Sem Complicações
