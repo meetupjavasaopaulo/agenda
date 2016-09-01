@@ -1,0 +1,3 @@
+É formado em Engenharia da Computação pela Etep Faculdades, cursou disciplinas de mestrado no ITA, atua na área de soluções open source com Java desde 2006.
+
+ - https://github.com/rafa-andrade

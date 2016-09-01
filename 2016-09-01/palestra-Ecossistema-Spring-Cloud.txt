@@ -1,0 +1,12 @@
+Slides:
+
+    https://docs.google.com/presentation/d/1ZQtZ_rv3g6u2cB77qMpnaigFLsNtWB4k8xlRYPVSfQ0/edit?usp=sharing
+
+Fonte:
+    
+    https://github.com/rafa-andrade/spring-cloud-config
+    https://github.com/rafa-andrade/config-server
+    https://github.com/rafa-andrade/eureka-server
+    https://github.com/rafa-andrade/customer-api
+    https://github.com/rafa-andrade/zip-code-api
+    https://github.com/rafa-andrade/zuul-server
