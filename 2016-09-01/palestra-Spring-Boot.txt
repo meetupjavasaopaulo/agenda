@@ -1,6 +1,8 @@
 
 Slides:
 
+   http://www.slideshare.net/boaglio/aumente-sua-produtividade-com-spring-boot
+   
 Fonte:
 
    https://github.com/meetupjavasaopaulo/spring-boot-mongodb-rest
