@@ -1,0 +1,8 @@
+
+Projeto Java com Zero Bugs!  - Rafael Chinelato Del Nero
+
+Slides:
+https://www.slideshare.net/rafaelchinelatodelnero/zerobugsproject-tcnicas-de-programao-efetivas
+
+E-book e as dicas seria show:
+http://eepurl.com/cCGHQD
