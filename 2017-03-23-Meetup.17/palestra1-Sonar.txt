@@ -1,0 +1,5 @@
+
+Slides:
+
+   https://www.slideshare.net/boaglio/anlise-de-qualidade-de-cdigo-com-sonar-fernando-boaglio
+   
