@@ -1,5 +1,6 @@
 
 Slides:
 
+https://www.slideshare.net/rafaelchinelatodelnero/5-tcnicas-para-acelerar-o-desenvolvimento-e-reduzir-bugs-em-aplicaes-web
 
 Fonte:
