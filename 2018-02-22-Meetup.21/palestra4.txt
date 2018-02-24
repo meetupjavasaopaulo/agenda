@@ -1,0 +1,10 @@
+Projeto lombok - escrevendo Menos Codigo Em Java - Mateus Malaquias
+
+Slides:
+https://pt.slideshare.net/boaglio/sap-hybris-e-sap-hana-o-que-d-para-usar
+   
+Video:   
+https://www.youtube.com/watch?v=99M2kExP24s&index=4&list=PLSauQkjyO6oc9I77TItSHRYMdm990oXro
+
+Reduzindo boilerplate code com Lombok:
+https://www.youtube.com/watch?v=zT5Ww_I4_Rk

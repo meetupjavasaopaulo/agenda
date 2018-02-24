@@ -1,0 +1,13 @@
+Uma API diversos NoSQLs: conheça o Eclipse JNoSQL (Otávio Santana - Tomitribe e Lucas Furlaneto - PagSeguro)
+
+Slides:
+https://www.slideshare.net/otagonsan/nosql-no-limits-lots-of-fun
+ 
+Site http://jnosql.org/
+Code https://github.com/JNOSQL
+Mailing List https://dev.eclipse.org/mailman/listinfo/jnosql-dev
+Gitter https://gitter.im/JNOSQL/developers
+Wiki https://wiki.eclipse.org/JNoSQL 
+ 
+Video:
+https://www.youtube.com/watch?v=i2KtRnto-hs&index=2&list=PLSauQkjyO6oc9I77TItSHRYMdm990oXro

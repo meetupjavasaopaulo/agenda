@@ -1,0 +1,7 @@
+Microservices - O que ainda não ficou claro (Felipe Adorno - Monkey Exchange)
+
+Slides:
+https://pt.slideshare.net/felipeadsc/microservices-88820828
+    
+Video:    
+https://www.youtube.com/watch?v=c8F10osZl3c&index=1s&list=PLSauQkjyO6oc9I77TItSHRYMdm990oXro
