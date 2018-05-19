@@ -1,7 +1,10 @@
-
 Slides:
 
-   
-Fonte:
+ https://pt.slideshare.net/boaglio/katalono-selenium-fcil
+ 
+Links relacionados:
 
+https://www.katalon.com/
+https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+https://sites.google.com/site/easylinuxtipsproject/oldgrub
 

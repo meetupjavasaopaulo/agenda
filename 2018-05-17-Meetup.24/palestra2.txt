@@ -1,5 +1,7 @@
 
-Slides:
-
+Links:
+https://engenharia.elo7.com.br/testes-codigo-mockito/
+https://engenharia.elo7.com.br/testes-codigo-mockito-2/
 
 Fonte:
+https://github.com/ljtfreitas/tdc-magic-mockito
